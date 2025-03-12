@@ -23,9 +23,9 @@ repository               : "pengyuanli/pengyuanli.github.io"
 author:
   # Biographic information
   avatar           : "profile.JPG"
-  name             : "Research Staff Member @ IBM Research<br/> Adjunct Faculty @ U of Delaware"
+  name             : #"Pengyuan Li"
   pronouns         : # example: "she/her"  
-  bio              : #""
+  bio              : "Research Staff Member @ IBM Research<br/> Adjunct Faculty @ U of Delaware"
   location         : "San Jose, California"
   employer         : "IBM Research"
   uri              : # URL
