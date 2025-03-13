@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 [CV in PDF](https://github.com/pengyuanli/pengyuanli.github.io/blob/master/files/cv.pdf)
+
 Education
 ======
 * Ph.D in Version Control Theory, GitHub University, 2018 (expected)
