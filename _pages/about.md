@@ -9,9 +9,3 @@ redirect_from:
 Pengyuan Li is a Research Staff Member at IBM Research, leading the development of [large vision models]([https://lnkd.in/gbrTmntA](https://huggingface.co/collections/ibm-granite/granite-vision-models-67b3bd4ff90c915ba4cd2800)). Previously, he served as the Data Acquisition Lead and collected more than 10PB data for building Large Language, Code, and Multimodal Models at IBM. 
 
 Pengyuan's research spans machine learning, text-and-image mining, document analysis, and biomedical informatics. He has collaborated with researchers worldwide as a visiting scholar at UCLA, UBC, JHU, and Tongji University, exploring innovative ideas across disciplines. In addition, Pengyuan is an Adjunct Faculty at the Data Science Institute, University of Delaware.
-
-NEWS
-======
-  <ul>{% for post in site.news reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
