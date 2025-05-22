@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[Google Scholar]([https://scholar.google.com](https://scholar.google.com/citations?user=PoEq1mMAAAAJ&hl=en)) [ ![Google Scholar Logo](image_path/google_scholar_logo.png)](https://scholar.google.com/citations?user=PoEq1mMAAAAJ&hl=en)
+[**Full List**]([https://scholar.google.com](https://scholar.google.com/citations?user=PoEq1mMAAAAJ&hl=en))
 
 - **Granite Vision:** a lightweight, open-source multimodal model for enterprise Intelligence. *Arxiv*, 2025. ([Paper link](https://arxiv.org/pdf/2403.16386)) ([HuggingFace model](https://huggingface.co/ibm-granite/granite-vision-3.2-2b))
 
