@@ -35,16 +35,16 @@ author_profile: true
   
 - Integrating image caption information into biomedical document classification in support of biocuration. *Database*, 2020.
   
-- Modality-classification of microscopy images using shallow variants of deep networks. [C] In Proceedings of the 2020 IEEE International Conference on Bioinformatics and Biomedicine (BIBM2020), 2379-2385. 
-[16] Li P, Jiang X, Shatkay H. Extracting figures and captions from biomedical documents. [J] Bioinformatics, 2019, 35(21), 4381-4388. 
-[17] Li P, Jiang X, Kambhamettu C, Shatkay H. Compound image segmentation of published biomedical figures. [J] Bioinformatics, 2018, 34(7), 1192-1199. 
-[18] Li P, Jiang X, Shatkay H. Figure and caption extraction from scientific documents. [C] In Proceedings of the 27th ACM International Conference on Information and Knowledge Management (CIKM2018), 1595-1598. 
-[19] Zhang G, Roychowdhury D, Li P, Wu HY, Zhang S, Li L, Shatkay H. Identifying experimental evidence in biomedical abstracts relevant to Drug-Drug Interactions. [C] In Proceedings of the 9th ACM International Conference on Bioinformatics, Computational Biology, and Health Informatics (BCB2018), 414-418. 
-[20] Li P, Jiang X, Kambhamettu C, Shatkay H. Segmenting compound biomedical figures into their constituent panels. [C] In Proceedings of the 8th Cross-Language Evaluation Forum for European Languages (CLEF2017), 199-210. (Best of Lab paper track)
-[21] Li W, Pan H, Li P, Xie X, Zhang Z. A medical image retrieval method based on texture block coding tree. [J] Signal Processing: Image Communication, 2017, 59, 131-139. 
-[22] Zhang G, Bhattacharya M, Wu HY, Li P, Li L, Shatkay H. Identifying articles relevant to Drug-Drug Interaction: Addressing Class Imbalance. [C] In Proceedings of the 2017 IEEE International Conference on Bioinformatics and Biomedicine (BIBM2017), 1141-1147. 
-[23] Gao L, Pan H, Han Q, Xie X, Zhang Z, Zhai X, Li P. Finding frequent approximate subgraphs in medical image database. [C] In Proceedings of the 2015 IEEE International Conference on Bioinformatics and Biomedicine (BIBM2015), 1004-1007. 
-[24] Pan H, Li P, Li Q, Han Q, Feng X, Gao L. Brain CT image similarity retrieval method based on Uncertain Location Graph. [J] IEEE Journal of Biomedical and Health Informatics, 2014, 18(2):574-584. 
-[25] Li P, Pan H, Li J, Han Q, Xie X, Zhang Z. A novel model for medical image similarity retrieval. [C] In Proceedings of the 14th Conference on Web-Age Information Management (WAIM2013), 595-606. 
-[26] Wang R, Pan H, Han Q, Gu J, Li P. Medical Image Retrieval Method Based on Relevance Feedback. [C] In Proceedings of the 8th International Conference on Advanced Data Mining and Applications (ADMA2012), 650-662. 
-![image](https://github.com/user-attachments/assets/d2dbd63c-e704-4205-9223-3feaf50c2f9b)
+- Modality-classification of microscopy images using shallow variants of deep networks. *BIBM2020*. 
+
+- Extracting figures and captions from biomedical documents. *Bioinformatics*, 2019.
+- Compound image segmentation of published biomedical figures. *Bioinformatics*, 2018.
+- Figure and caption extraction from scientific documents. *CIKM2018*. 
+- Identifying experimental evidence in biomedical abstracts relevant to Drug-Drug Interactions. *BCB2018*. 
+- Segmenting compound biomedical figures into their constituent panels. CLEF2017. (Best of Lab paper track)
+- A medical image retrieval method based on texture block coding tree. Signal Processing: Image Communication, 2017. 
+- Identifying articles relevant to Drug-Drug Interaction: Addressing Class Imbalance. BIBM2017. 
+- Finding frequent approximate subgraphs in medical image database. BIBM2015.
+- Brain CT image similarity retrieval method based on Uncertain Location Graph. IEEE Journal of Biomedical and Health Informatics, 2014. 
+- A novel model for medical image similarity retrieval. WAIM2013. 
+- Medical Image Retrieval Method Based on Relevance Feedback. ADMA2012. 
