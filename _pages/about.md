@@ -11,7 +11,7 @@ Pengyuan Li is a Research Staff Member at IBM Research, leading the development 
 Pengyuan's research focuses on machine learning, multimodal data mining, document analysis, and biomedical informatics. He has served as a visiting scholar at UCLA, UBC, JHU, and Tongji University, collaborating with researchers around the world to explore innovative, cross-disciplinary ideas. He is also an Adjunct Faculty member at the Data Science Institute, University of Delaware.
 
 # News
-- **Aug 2025:** Pengyuan gave a talk on **Granite Vision Models** at **OpenCV** Live Chanel  
+- **Aug 2025:** Pengyuan gave a talk on **Granite Vision Models** at **OpenCV** Live channel  
 <a href="https://www.youtube.com/watch?v=FLvMPlJvwYE">
   <img src="https://pengyuanli.github.io/images/talk3.png" alt="Watch the video" width="160" />
 </a>
