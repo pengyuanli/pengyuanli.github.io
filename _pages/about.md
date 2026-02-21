@@ -11,7 +11,7 @@ Pengyuan Li is a Research Staff Member at MIT-IBM Watson AI Lab, leading the dev
 Pengyuan's research focuses on machine learning, multimodal data mining, document analysis, and biomedical informatics. He has served as a visiting scholar at Caltech, UCLA, UBC, JHU, and Tongji University, collaborating with researchers around the world to explore innovative, cross-disciplinary ideas. He is also an Adjunct Faculty member at the Data Science Institute, University of Delaware.
 
 # News
-- **Jan 2026:** Glad to present **CurateBench**: Evaluating LLMs on Evidence-Grounded, Ontology-Aligned Biocuration Tasks at [ISB 2026 Virtual Biocuration Conference](https://www.youtube.com/watch?v=jXHmHHLp9q0)
+- **Feb 2026:** Glad to present **CurateBench**: Evaluating LLMs on Evidence-Grounded, Ontology-Aligned Biocuration Tasks at [ISB 2026 Virtual Biocuration Conference](https://www.youtube.com/watch?v=jXHmHHLp9q0)
 - **Jan 2026:** Wonderful collaboration with the [**Docling**](https://docling-project.github.io/docling/) team on [**Chart2CSV**](https://huggingface.co/ibm-granite/granite-vision-3.3-2b-chart2csv-preview) model integration
 - **Dec 2025:** We will Orgnize the [**DataMFM**](https://datamfm.github.io/#overview):Emerging Directions in Data for Multimodal Foundation Models workshop at CVPR 2026
 - **Aug 2025:** Pengyuan gave a talk on **Granite Vision Models** at **OpenCV** Live channel  
