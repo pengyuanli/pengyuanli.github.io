@@ -17,10 +17,7 @@ Pengyuan's research focuses on machine learning, multimodal data mining, documen
 - **Feb 2026:** Glad to present **CurateBench**: Evaluating LLMs on Evidence-Grounded, Ontology-Aligned Biocuration Tasks at [ISB 2026 Virtual Biocuration Conference](https://www.youtube.com/watch?v=jXHmHHLp9q0)
 - **Jan 2026:** Published [**Chart2CSV**](https://huggingface.co/ibm-granite/granite-vision-3.3-2b-chart2csv-preview) model and integrated with [**Docling**](https://docling-project.github.io/docling/) to enable document intelligence
 - **Dec 2025:** We will organize the [**DataMFM**](https://datamfm.github.io/#overview):Emerging Directions in Data for Multimodal Foundation Models workshop at CVPR 2026
-- **Aug 2025:** Pengyuan gave a talk on **Granite Vision Models** at **OpenCV** Live channel  
-<a href="https://www.youtube.com/watch?v=FLvMPlJvwYE">
-  <img src="https://pengyuanli.github.io/images/talk3.png" alt="Watch the video" width="160" />
-</a>
+- **Aug 2025:** Gave a talk on [**Granite Vision Models** at **OpenCV** Live channel](https://www.youtube.com/watch?v=FLvMPlJvwYE)  
 - **Jul 2025:** Our [**Granite Vision**](https://huggingface.co/ibm-granite/granite-vision-3.2-2b) model yield more than **100K** downloads on HuggingFace
 - **Apr 2025:** Pengyuan co-organized 'AI and Biodata' workshop at the 18th [Annual International Biocuration Conference](https://www.stowers.org/events/biocuration2025)
 - **Apr 2025:** Pengyuan presented '[GeneScribe: Leveraging large language models for gene summary generation](https://f1000research.com/slides/14-429)' at the 18th [Annual International Biocuration Conference](https://www.stowers.org/events/biocuration2025)
