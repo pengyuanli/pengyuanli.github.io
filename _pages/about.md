@@ -12,7 +12,7 @@ Pengyuan's research focuses on machine learning, multimodal data mining, documen
 
 # News
 - **Sep 2026:** Gave a talk at **OpenCV** channel about [**Document Intelligence using Granite Vision and Docling**](https://opencv.org/document-intelligence-with-granite-vision-and-docling-opencv-live-225/)
-- **June 2026:** Our work ChartNet been featured by [**MIT News**](https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603)
+- **June 2026:** Our work **ChartNet** been featured by [**MIT News**](https://news.mit.edu/2026/mit-researchers-teach-ai-models-to-interpret-charts-0603)
 - **June 2026:** Successfully organized the [**DataMFM**](https://datamfm.github.io/#overview) workshop at CVPR 2026
 - **Feb 2026:** Glad to present **CurateBench**: Evaluating LLMs on Evidence-Grounded, Ontology-Aligned Biocuration Tasks at [ISB 2026 Virtual Biocuration Conference](https://www.youtube.com/watch?v=jXHmHHLp9q0)
 - **Jan 2026:** Published [**Chart2CSV**](https://huggingface.co/ibm-granite/granite-vision-3.3-2b-chart2csv-preview) model and integrated with [**Docling**](https://docling-project.github.io/docling/) to enable document intelligence
