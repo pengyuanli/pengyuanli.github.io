@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Pengyuan Li is a Research Staff Member at MIT-IBM Watson AI Lab, leading the development of [Granite Vision model]([https://lnkd.in/gbrTmntA](https://huggingface.co/collections/ibm-granite/granite-vision-models-67b3bd4ff90c915ba4cd2800)), a vision-language model specifically designed for visual document understanding. Previously, he served as the Data Acquisition Lead and collected more than 10PB data for building Large Language, Code, and Multimodal Models at IBM. 
+Pengyuan Li is a Research Staff Member at the MIT-IBM Computing Research Lab, where he works on multimodal foundation models and AI for science. He is a lead developer of the [IBM Granite Vision Models](https://huggingface.co/collections/ibm-granite/granite-vision), a family of vision-language models for visual document understanding. He also serves as Co-PI with Prof. [Bill Freeman](https://billf.mit.edu/) on the AI for physical and scientific dynamical systems project. Previously, he led the acquisition and processing of more than 10 PB of data supporting the development of language, code, and multimodal foundation models at IBM.
 
-Pengyuan's research focuses on machine learning, multimodal data mining, document analysis, and biomedical informatics. He has served as a visiting scholar at Caltech, UCLA, UBC, JHU, and Tongji University, collaborating with researchers around the world to explore innovative, cross-disciplinary ideas. He is also an Adjunct Faculty member at the Data Science Institute, University of Delaware.
+Pengyuan's research spans multimodal foundation models, AI for science, document intelligence, and biomedical AI. He collaborates with researchers across institutions on interdisciplinary problems, including scientific discovery and biomedical informatics. He is also an Adjunct Faculty member at the Data Science Institute, University of Delaware.
 
 # News
 - **Sep 2026:** Gave a talk at **OpenCV** channel about [**Document Intelligence using Granite Vision and Docling**](https://opencv.org/document-intelligence-with-granite-vision-and-docling-opencv-live-225/)
