@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Pengyuan Li is a Research Staff Member at the MIT-IBM Computing Research Lab, where he works on multimodal foundation models and AI for science. He is a lead developer of the [IBM Granite Vision Models](https://huggingface.co/collections/ibm-granite/granite-vision), a family of vision-language models for visual document understanding. He also serves as Co-PI with Prof. [Bill Freeman](https://billf.mit.edu/) on the AI for physical and scientific dynamical systems project. Previously, he led the acquisition and processing of more than 10 PB of data supporting the development of language, code, and multimodal foundation models at IBM.
+Pengyuan Li is a Research Staff Member at the MIT-IBM Computing Research Lab, where he works on multimodal foundation models and AI for science. He is a lead developer of the [IBM Granite Vision Models](https://huggingface.co/collections/ibm-granite/granite-vision), a family of vision-language models for visual document understanding. He also serves as Co-PI with [Prof. Bill Freeman](https://billf.mit.edu/) on a research project exploring AI for physical and scientific dynamical systems. Previously, he led the acquisition and processing of more than 10 PB of data supporting the development of IBM's large language, code, and multimodal foundation models.
 
-Pengyuan's research spans multimodal foundation models, AI for science, document intelligence, and biomedical AI. He collaborates with researchers across institutions on interdisciplinary problems, including scientific discovery and biomedical informatics. He is also an Adjunct Faculty member at the Data Science Institute, University of Delaware.
+Pengyuan's research spans multimodal foundation models, AI for science, document intelligence, and biomedical informatics. He collaborates with researchers across institutions on interdisciplinary problems, including scientific discovery and biomedical informatics. He is also an Adjunct Faculty member at the Data Science Institute, University of Delaware.
 
 # News
 - **Sep 2026:** Gave a talk at **OpenCV** channel about [**Document Intelligence using Granite Vision and Docling**](https://opencv.org/document-intelligence-with-granite-vision-and-docling-opencv-live-225/)
