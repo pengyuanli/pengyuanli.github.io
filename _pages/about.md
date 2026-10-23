@@ -8,7 +8,7 @@ redirect_from:
 ---
 Pengyuan Li is a Research Staff Member at the MIT-IBM Computing Research Lab, where he works on multimodal foundation models and AI for science. He is a lead developer of the [IBM Granite Vision Models](https://huggingface.co/collections/ibm-granite/granite-vision), a family of vision-language models for visual document understanding. He also serves as Co-PI with [Prof. Bill Freeman](https://billf.mit.edu/) on an MIT-IBM research project exploring AI for physical and scientific dynamical systems.
 
-Pengyuan's broader research spans multimodal foundation models, AI for science, document intelligence, and biomedical informatics. He collaborates with researchers at Caltech and the Alliance of Genome Resources on on AI-assisted biological knowledge discovery, and biocuration. He is also an Adjunct Faculty member at the Data Science Institute, University of Delaware.
+Pengyuan's broader research spans multimodal foundation models, AI for science, document intelligence, and biomedical informatics. He collaborates with researchers at Caltech and the Alliance of Genome Resources on AI-assisted biological knowledge discovery, and biocuration. He is also an Adjunct Faculty member at the Data Science Institute, University of Delaware.
 
 # News
 - **Sep 2026:** Gave a talk at **OpenCV** channel about [**Document Intelligence using Granite Vision and Docling**](https://opencv.org/document-intelligence-with-granite-vision-and-docling-opencv-live-225/)
